@@ -1,0 +1,265 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}
+
+.title-header {
+    width: 100%;
+    height: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.title-block {
+    font: 8pt verdana;
+    float: left;
+    width: 70%;
+    height: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.title-image {
+    vertical-align: bottom;
+    text-align: right;
+    float: right;
+    width: 30%;
+    height: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.adjustedZIndex {
+    z-index: 1;
+}
+
+.aligntext {
+    white-space: nowrap;
+    text-align: left;
+}
+
+.backgroundCCCCCC {
+    background-color: #CCCCCC;
+}
+
+.backgroundFFFFFF {
+    background-color: #FFFFFF;
+}
+
+.background990033 {
+    background-color: #990033;
+}
+
+.border000000 {
+    border-color: #000000;
+}
+
+.border666666 {
+    border-color: #666666;
+}
+
+.buttonvisbilityhidden {
+    background-color: #FFFFFF;
+    width: 1px;
+    border: #FFFFFF;
+    border-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    visibility: hidden
+}
+
+.colorFFFFFF {
+    color: #FFFFFF;
+}
+
+.floatright {
+    float: right;
+}
+
+.font8arial {
+    font: 8pt arial;
+}
+
+.font11arial {
+    font: 11pt arial;
+}
+
+.font14arial {
+    font: 14pt arial;
+}
+
+.font14arialtransformnone {
+    font: arial 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    color: #000000;
+}
+
+.fontsizesmall {
+    font-size: small;
+}
+
+.fontsizexsmall {
+    font-size: x-small;
+}
+
+.fontsizexxsmall {
+    font-size: xx-small;
+}
+
+.fontveranda {
+    font-family: Verdana;
+}
+
+.font8veranda {
+    font: 8pt verdana;
+}
+
+.font10veranda {
+    font: 10pt verdana;
+    background-color: #CCCCCC;
+}
+
+.fontweightbold {
+    font-weight: bold;
+}
+
+.fontweight600 {
+    font-weight: 600;
+}
+
+.frame {
+    padding: 5px;
+    border: ridge 5px;
+    border-color: #2876CD #B2C4D7;
+    font: 8pt verdana;
+}
+
+hr {
+    color: #ddd;
+    background-color: #ddd;
+    height: 2px;
+    border: none;
+    max-width: 100%;
+}
+
+.table_header {
+    width: 100%;
+}
+.table_input {
+    width: 50%;
+}
+.table_message {
+    width: 80%;
+    font-size: 22px;
+}
+
+.data_input {
+    font-size: 16px;
+    line-height: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.data_row {
+    height: 20px;
+}
+
+.data_button {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: left;
+    color: #2876CD;
+    padding: 10px 15px;
+    border: none;
+}
+
+.td {
+     white-space: nowrap;
+     text-align: left;
+ }
+
+.getframe {
+    padding: 5px;
+    border: ridge 2px;
+    border-color: #B2C4D7 #2876CD;
+}
+
+.hidecolumn {
+    display: none;
+}
+
+.hrunderimageline {
+    color: #990033;
+    width: 100%;
+}
+
+.hrheight2 {
+    height: 2pt;
+    width: 100%;
+}
+
+.indented5050 {
+    padding-left: 50pt;
+    padding-right: 50pt;
+}
+
+.paddingtop15 {
+    padding-top: 15pt;
+}
+
+.requiredfield {
+    border-color: #999999;
+    border-width: 1px;
+    border-bottom-width: thin;
+    border-style: solid;
+    border-bottom-color: #FF0000;
+    border-bottom-style: groove;
+}
+
+.textalignleft {
+    text-align: left;
+}
+
+.textaligncenter {
+    text-align: center;
+}
+
+.textalignright {
+    text-align: right;
+}
+
+.width300 {
+    width: 300pt;
+}

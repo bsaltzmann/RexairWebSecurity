@@ -1,0 +1,2696 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RexairWebSecurity
+</name>
+</assembly>
+<members>
+<member name="T:RexairWebSecurity.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:RexairWebSecurity.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:RexairWebSecurity.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:RexairWebSecurity.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:RexairWebSecurity.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:RexairWebSecurity.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:RexairWebSecurity._Default._btnLogin">
+<summary>
+btnLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._rxcustomermastersearch">
+<summary>
+rxcustomermastersearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._CustSelect">
+<summary>
+CustSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._getcustomerid">
+<summary>
+getcustomerid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._getcustomername">
+<summary>
+getcustomername control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxcustomermastersearch._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._rxviewcustomerdata">
+<summary>
+rxviewcustomerdata control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._customer_number">
+<summary>
+customer_number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._customer_name">
+<summary>
+customer_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._starting_date">
+<summary>
+starting_date control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._ending_date">
+<summary>
+ending_date control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._cbrainbows_only">
+<summary>
+cbrainbows_only control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._MyGridViewRespTo">
+<summary>
+MyGridViewRespTo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._MyGridViewDistSales">
+<summary>
+MyGridViewDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._MyGridViewWarranty">
+<summary>
+MyGridViewWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._MyGridViewConsSales">
+<summary>
+MyGridViewConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnExcelDistSales">
+<summary>
+btnExcelDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnExcelWarranty">
+<summary>
+btnExcelWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnExcelConsSales">
+<summary>
+btnExcelConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnWindowPrint">
+<summary>
+btnWindowPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._sortdistsales_id">
+<summary>
+sortdistsales_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._sortwarranty_id">
+<summary>
+sortwarranty_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._sortconssales_id">
+<summary>
+sortconssales_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._gridcountDistSales">
+<summary>
+gridcountDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._gridcountWarranty">
+<summary>
+gridcountWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._gridcountConsSales">
+<summary>
+gridcountConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewcustomerdata._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._rxviewserialnumber">
+<summary>
+rxviewserialnumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._serial_number">
+<summary>
+serial_number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._MyGridViewDistSales">
+<summary>
+MyGridViewDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._MyGridViewWarranty">
+<summary>
+MyGridViewWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._MyGridViewConsSales">
+<summary>
+MyGridViewConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._btnExcelDistSales">
+<summary>
+btnExcelDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._btnExcelWarranty">
+<summary>
+btnExcelWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._btnExcelConsSales">
+<summary>
+btnExcelConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._gridcountDistSales">
+<summary>
+gridcountDistSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._gridcountWarranty">
+<summary>
+gridcountWarranty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.rxviewserialnumberdata._gridcountConsSales">
+<summary>
+gridcountConsSales control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._wsappareamaint">
+<summary>
+wsappareamaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._getapplication_id">
+<summary>
+getapplication_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._getapplication_name">
+<summary>
+getapplication_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._application_id">
+<summary>
+application_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._area_id">
+<summary>
+area_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._type_form">
+<summary>
+type_form control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._type_menu">
+<summary>
+type_menu control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._type_report">
+<summary>
+type_report control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationarea._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._wsapplicationmastersearch">
+<summary>
+wsapplicationmastersearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._ApplicationSelect">
+<summary>
+ApplicationSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._getapplicationid">
+<summary>
+getapplicationid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._getapplicationname">
+<summary>
+getapplicationname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._getareaid">
+<summary>
+getareaid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationareasearch._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._wsapplicationmastermaint">
+<summary>
+wsapplicationmastermaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._application_id">
+<summary>
+application_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._application_name">
+<summary>
+application_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnUserSearch">
+<summary>
+btnUserSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._getuser_id">
+<summary>
+getuser_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._getuser_name">
+<summary>
+getuser_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._loc_cadillac">
+<summary>
+loc_cadillac control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._loc_troy">
+<summary>
+loc_troy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._app_notes">
+<summary>
+app_notes control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastermaint._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._wscopyusersecurity">
+<summary>
+wscopyusersecurity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._from_user_id">
+<summary>
+from_user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._from_user_name">
+<summary>
+from_user_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnTSearch">
+<summary>
+btnTSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._to_user_id">
+<summary>
+to_user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnTGet">
+<summary>
+btnTGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._to_user_name">
+<summary>
+to_user_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnCopy">
+<summary>
+btnCopy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._CopyMessage">
+<summary>
+CopyMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscopyusersecurity._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._wsuserareagroupmaint">
+<summary>
+wsuserareagroupmaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._getgroup_id">
+<summary>
+getgroup_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._getgroup_name">
+<summary>
+getgroup_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnApplicationAreaSearch">
+<summary>
+btnApplicationAreaSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._getapplication_id">
+<summary>
+getapplication_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._getapplication_name">
+<summary>
+getapplication_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._getarea_id">
+<summary>
+getarea_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._group_id">
+<summary>
+group_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._application_id">
+<summary>
+application_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._area_id">
+<summary>
+area_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._permission_create">
+<summary>
+permission_create control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._permission_read">
+<summary>
+permission_read control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._permission_update">
+<summary>
+permission_update control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._permission_delete">
+<summary>
+permission_delete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupapplicationarea._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._wsgroupmastermaint">
+<summary>
+wsgroupmastermaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._group_id">
+<summary>
+group_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._group_name">
+<summary>
+group_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastermaint._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._wsusermastersearch">
+<summary>
+wsusermastersearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._GroupSelect">
+<summary>
+GroupSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._getgroupid">
+<summary>
+getgroupid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._getgroupname">
+<summary>
+getgroupname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupmastersearch._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._wsgroupusermaint">
+<summary>
+wsgroupusermaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._getgroup_id">
+<summary>
+getgroup_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._getgroup_name">
+<summary>
+getgroup_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._group_id">
+<summary>
+group_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnUserSearch">
+<summary>
+btnUserSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._user_id">
+<summary>
+user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._user_name">
+<summary>
+user_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsgroupusermaint._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._wslocationmastermaint">
+<summary>
+wslocationmastermaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._location_id">
+<summary>
+location_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._location_name">
+<summary>
+location_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.locationmastermaint._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._wschangeuserpassword">
+<summary>
+wschangeuserpassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._user_id">
+<summary>
+user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._user_name">
+<summary>
+user_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._from_user_password">
+<summary>
+from_user_password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._passunknown">
+<summary>
+passunknown control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._to_user_password">
+<summary>
+to_user_password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._confirm_user_password">
+<summary>
+confirm_user_password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._which_pass">
+<summary>
+which_pass control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._never_expire">
+<summary>
+never_expire control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._user_p_one">
+<summary>
+user_p_one control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._user_p_two">
+<summary>
+user_p_two control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._user_p_three">
+<summary>
+user_p_three control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._last_password_change">
+<summary>
+last_password_change control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._last_login_date">
+<summary>
+last_login_date control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._login_type">
+<summary>
+login_type control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._expiration_date">
+<summary>
+expiration_date control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._expireslabel">
+<summary>
+expireslabel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._btnChange">
+<summary>
+btnChange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wschangeuserpassword._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscaimage._wslogin">
+<summary>
+wslogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wscaimage._random_number">
+<summary>
+random_number control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._wsapplicationmastersearch">
+<summary>
+wsapplicationmastersearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._ApplicationSelect">
+<summary>
+ApplicationSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._getapplicationid">
+<summary>
+getapplicationid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._getapplicationname">
+<summary>
+getapplicationname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsapplicationmastersearch._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._wslogin">
+<summary>
+wslogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._user_id">
+<summary>
+user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._password">
+<summary>
+password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._btnLogin">
+<summary>
+btnLogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wslogin._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._wsmainmenu">
+<summary>
+wsmainmenu control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._Menu1">
+<summary>
+Menu1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._Menu2">
+<summary>
+Menu2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._Menu3">
+<summary>
+Menu3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._UserIDtb">
+<summary>
+UserIDtb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._Datetb">
+<summary>
+Datetb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsmainmenu._Timetb">
+<summary>
+Timetb control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._wsusermastermaint">
+<summary>
+wsusermastermaint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._user_id">
+<summary>
+user_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._user_name">
+<summary>
+user_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._user_password">
+<summary>
+user_password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._verify_password">
+<summary>
+verify_password control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._user_email">
+<summary>
+user_email control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._loc_cadillac">
+<summary>
+loc_cadillac control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._loc_troy">
+<summary>
+loc_troy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._master_account">
+<summary>
+master_account control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._never_expire">
+<summary>
+never_expire control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._inactive">
+<summary>
+inactive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._AddMessage">
+<summary>
+AddMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastermaint._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermasterrpt._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermasterrpt._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermasterrpt._ReportViewer1">
+<summary>
+ReportViewer1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._wsusermastersearch">
+<summary>
+wsusermastersearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._UserSelect">
+<summary>
+UserSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._getuserid">
+<summary>
+getuserid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._getusername">
+<summary>
+getusername control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._btnClose">
+<summary>
+btnClose control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsusermastersearch._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._ReportViewer1">
+<summary>
+ReportViewer1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._lblJavaScript">
+<summary>
+lblJavaScript control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._btnShowDialogue">
+<summary>
+btnShowDialogue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewreport._getsource">
+<summary>
+getsource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._wsuserapppermissions">
+<summary>
+wsuserapppermissions control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._getuser_id">
+<summary>
+getuser_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._getuser_name">
+<summary>
+getuser_name control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnGet">
+<summary>
+btnGet control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._GetMessage">
+<summary>
+GetMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnUserApp">
+<summary>
+btnUserApp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._Message">
+<summary>
+Message control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._MyGridView">
+<summary>
+MyGridView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._sort_id">
+<summary>
+sort_id control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._clearpressed">
+<summary>
+clearpressed control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._gridcount">
+<summary>
+gridcount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RexairWebSecurity.wsviewuserapppermission._btnReturn">
+<summary>
+btnReturn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

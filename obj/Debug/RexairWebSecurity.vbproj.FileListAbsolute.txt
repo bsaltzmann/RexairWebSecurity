@@ -1,0 +1,316 @@
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\RexairWebSecurity.dll.config
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\RexairWebSecurity.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\RexairWebSecurity.pdb
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\WebForms_Basic.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csc.exe
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csc.exe.config
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csc.rsp
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csi.exe
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csi.exe.config
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\csi.rsp
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.AppContext.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Console.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Globalization.Calendars.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.IO.Compression.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.IO.FileSystem.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Net.Http.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Net.Sockets.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.ValueTuple.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Xml.XPath.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\vbc.exe
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\vbc.exe.config
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\vbc.rsp
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Antlr3.Runtime.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\AspNet.ScriptManager.jQuery.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Newtonsoft.Json.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\System.Web.Optimization.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\WebGrease.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\System.Web.Optimization.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Newtonsoft.Json.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Antlr3.Runtime.pdb
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbprojAssemblyReference.cache
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.Resources.resources
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.GenerateResource.cache
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.CoreCompileInputs.cache
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.CopyComplete
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\WebForms_Basic.xml
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\obj\Debug\RexairWebSecurity.pdb
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.Common.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.Design.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.SqlServer.Types.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\EnvDTE.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\stdole.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\Microsoft.MSXML.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Visual Studio Web Apps\2019\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\RexairWebSecurity.dll.config
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\RexairWebSecurity.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\RexairWebSecurity.pdb
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\WebForms_Basic.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csc.exe
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csc.exe.config
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csc.rsp
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csi.exe
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csi.exe.config
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\csi.rsp
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.AppContext.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Console.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.IO.Compression.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Net.Http.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Net.Sockets.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.ValueTuple.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\vbc.exe
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\vbc.exe.config
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\vbc.rsp
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\VBCSCompiler.exe
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Antlr3.Runtime.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.SqlServer.Types.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Newtonsoft.Json.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\System.Web.Optimization.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\WebGrease.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\EnvDTE.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\stdole.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.MSXML.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\System.Web.Optimization.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Newtonsoft.Json.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Antlr3.Runtime.pdb
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbprojAssemblyReference.cache
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.Resources.resources
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.GenerateResource.cache
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.CoreCompileInputs.cache
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.vbproj.CopyComplete
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.dll
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\WebForms_Basic.xml
+C:\Users\bsaltzmann\Documents\My Web Sites\RexairWebSecurity\obj\Debug\RexairWebSecurity.pdb

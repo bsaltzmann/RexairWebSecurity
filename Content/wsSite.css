@@ -1,0 +1,178 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+#container {
+    width: 100%;
+    border: solid 1px #2876CD;
+    margin: 0px auto;
+}
+
+#frame {
+    padding: 5px;
+    border: ridge 5px;
+    border-color: #2876CD #B2C4D7;
+    font: 8pt verdana;
+}
+
+#header {
+    color: #FFFFFF;
+    width: 100%;
+    height: 100px;
+    background-color: #778CB3;
+}
+
+.column {
+    float: left;
+    width: 100%;
+    height: 100px; 
+}
+
+.left {
+    width: 82%;
+    padding: 10px;
+    box-sizing:border-box;
+}
+
+.right {
+    width: 15%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.row {
+    width: 100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#sidePanel {
+    width: 213px;
+    height: 372px;
+    margin-top: 5px;
+    background-color: #778CB3;
+    color: #FFFFFF;
+    padding: 4px;
+}
+
+#content {
+    width: 446px;
+    float: right;
+    height: 380px;
+    margin-top: 5px;
+    background-color: #A0AFCB;
+}
+
+#footer {
+    background-color: lightskyblue;
+    padding: 10px;
+    width: 100%;
+    color: #ffffff;
+    font-size: 50%;
+    text-align: left;
+    clear: both;
+    border-top: 5px solid #FFFFFF;
+}
+
+.buttonArea {
+    width: 350px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: #2876CD;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border: none;
+    height: 20px;
+}
+.requiredfield {
+    border-color: #999999;
+    border-width: 1px;
+    border-bottom-width: thin;
+    border-style: solid;
+    border-bottom-color: #FF0000;
+    border-bottom-style: groove;
+    font-size: medium;
+}
+hr {
+    color: #ddd;
+    background-color: #ddd;
+    height: 2px;
+    border: none;
+    max-width: 100%;
+}
+.divider {
+    width: 100px;
+    height: auto;
+    display: inline-block;
+}
+
+span {
+    display: inline-block;
+    width: 100%;
+    font-size: large;
+    font-weight: normal;
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    border-top: 5px solid #FFFFFF;
+}
+
+
+.font11arial {
+    font: 11pt arial;
+}
+.textalignleft {
+    text-align: left;
+}
+
+.textaligncenter {
+    text-align: center;
+}
+
+.textalignright {
+    text-align: right;
+}
+.paddingtop15 {
+    padding-top: 15pt;
+}
+.aligntext {
+    white-space: nowrap;
+    text-align: left;
+}
+.font8veranda {
+    font: 8pt verdana;
+}
+
+.font10veranda {
+    font: 10pt verdana;
+    background-color: #CCCCCC;
+}
+.font12veranda {
+    font: 12pt verdana;
+}
+.table_input {
+    width: 50%;
+}
+.hrunderimageline {
+    color: #990033;
+    width: 100%;
+}
+.buttonvisbilityhidden {
+    background-color: #FFFFFF;
+    width: 1px;
+    border: #FFFFFF;
+    border-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    visibility: hidden
+}
