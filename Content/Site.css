@@ -159,9 +159,8 @@ textarea {
 }
 
 .frame {
-    padding: 5px;
-    border: ridge 5px;
-    border-color: #2876CD #B2C4D7;
+    padding: 10px 5px;
+    background-color: lightgray;
     font: 8pt verdana;
 }
 

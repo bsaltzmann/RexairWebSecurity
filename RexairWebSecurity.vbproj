@@ -169,7 +169,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Content\bootstrap.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
-    <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Images\application_view_icons.png" />
     <Content Include="Images\direction.png" />
@@ -209,6 +208,7 @@
     <Content Include="wsusermastersearch.aspx" />
     <Content Include="wsviewreport.aspx" />
     <Content Include="wsviewuserapppermission.aspx" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />

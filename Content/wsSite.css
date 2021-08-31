@@ -1,14 +1,11 @@
 ﻿/* Move down content because we have a fixed navbar that is 50px tall */
 #container {
     width: 100%;
-    border: solid 1px #2876CD;
     margin: 0px auto;
 }
 
 #frame {
     padding: 5px;
-    border: ridge 5px;
-    border-color: #2876CD #B2C4D7;
     font: 8pt verdana;
 }
 
