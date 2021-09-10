@@ -157,8 +157,17 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\CS.aspx" />
+    <Content Include="Content\CS.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
     <Content Include="Content\Site.css" />
+    <Content Include="Content\VB.aspx" />
     <Content Include="Content\wsSite.css" />
+    <Content Include="CS.aspx" />
+    <Content Include="CS.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Content>
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -189,6 +198,7 @@
     <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="VB.aspx" />
     <Content Include="wsapplicationareamaint.aspx" />
     <Content Include="wsapplicationareasearch.aspx" />
     <Content Include="wsapplicationmastermaint.aspx" />
@@ -209,6 +219,7 @@
     <Content Include="wsviewreport.aspx" />
     <Content Include="wsviewuserapppermission.aspx" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\web.config" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -259,6 +270,10 @@
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Content\VB.aspx.vb">
+      <DependentUpon>VB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Default.aspx.vb">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -289,6 +304,10 @@
     <Compile Include="rxviewserialnumberdata.aspx.vb">
       <DependentUpon>rxviewserialnumberdata.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="VB.aspx.vb">
+      <DependentUpon>VB.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="wsapplicationareamaint.aspx.designer.vb">
       <DependentUpon>wsapplicationareamaint.aspx</DependentUpon>

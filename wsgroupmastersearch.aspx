@@ -76,46 +76,47 @@
     <table style="width:30%;" >
 	<tr>
         <td >
-          <ASP:GridView id="MyGridView" runat="server"
-            Width="600"
-            BackColor="#CCCCCC"
-            BorderColor="black"
-            ShowFooter="false"
-            CellPadding="3"
-            CellSpacing="0"
-            Font-Names="Verdana"
-            Font-Size="8pt"
-            HeaderStyle-BackColor="#aaaadd"
-            EnableViewState="true"
-			OnPageIndexChanged="gv_PageIndexChanged"
-			OnPageIndexChanging = "gv_PageIndexChanging" 
-			AutoGenerateColumns="false"
-			OnRowDeleting="Search"
-			DataKeyNames="group_id"
-			PageSize="100"
-			AllowPaging="True">
-				
-		    <FooterStyle forecolor="Black" backcolor="#CCCCCC"></FooterStyle>
+          <ASP:GridView ID="MyGridView" CssClass="footable" runat="server"
+            Width = "600"
+            BackColor = "#CCCCCC"
+            BorderColor = "black"
+            ShowFooter = "false"
+            CellPadding = "3"
+            CellSpacing = "0"
+            Font-Names = "Verdana"
+            Font-Size = "8pt"
+            HeaderStyle-BackColor = "#aaaadd"
+            EnableViewState = "true"
+            OnPageIndexChanged = "gv_PageIndexChanged"
+            OnPageIndexChanging = "gv_PageIndexChanging"
+            AutoGenerateColumns = "false"
+            OnRowDeleting = "Search"
+            DataKeyNames = "group_id"
+            PageSize = "100"
+            AllowPaging = "True" >
+
+              
+		    <FooterStyle forecolor = "Black" backcolor="#CCCCCC"></FooterStyle>
             <HeaderStyle font-bold="True" forecolor="White" backcolor="#2876CD"></HeaderStyle>
-            <PagerStyle horizontalalign="Right" forecolor="Black" backcolor="#999999"></PagerStyle>
-            <PagerSettings Mode="NumericFirstLast" Position="Top" />
-			<EditRowStyle BackColor="#E6E8FA" />
-            <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333" />
+            <PagerStyle horizontalalign = "Right" forecolor="Black" backcolor="#999999"></PagerStyle>
+            <PagerSettings Mode = "NumericFirstLast" Position="Top" />
+			<EditRowStyle BackColor = "#E6E8FA" />
+            <SelectedRowStyle BackColor="#C5BBAF" Font-Bold="True" ForeColor="#333333"/>
             <EmptyDataTemplate>
-               <asp:Label ID="Label2" runat="server">
-                   There is no data to display in this view. Get a valid Group ID.
+               <asp:Label ID = "Label2" runat="server">
+                   There Is no data to display in this view. Get a valid Group ID.
                </asp:Label>
             </EmptyDataTemplate>
             					
 			<Columns>
- 		       <asp:ButtonField HeaderText="Select?" Text="Select" CommandName="Delete" ButtonType="Button" />
-			   <asp:BoundField HeaderText="Group ID" DataField="group_id" ReadOnly="true" ItemStyle-Width="400px"/>
-			   <asp:BoundField HeaderText="Group Name" DataField="group_name" ReadOnly="true" ItemStyle-Width="300px"/>
+ 		       <asp:ButtonField HeaderText = "Select?" Text="Select" CommandName="Delete" ButtonType="Button" />
+			   <asp:BoundField HeaderText = "Group ID" DataField="group_id" ReadOnly="true" ItemStyle-Width="400px"/>
+			   <asp:BoundField HeaderText = "Group Name" DataField="group_name" ReadOnly="true" ItemStyle-Width="300px"/>
 
-	           <asp:TemplateField HeaderText="Inactive">
-		         <ItemTemplate>
-                   <asp:CheckBox ID="InactiveCheckBox" Enabled="False"
-                      Checked='<%# Databinder.Eval(Container.DataItem, "inactive") %>'
+	           <asp:TemplateField HeaderText = "Inactive" >
+                 <ItemTemplate>
+                     <asp:CheckBox ID="InactiveCheckBox" Enabled="False"
+                         Checked='<%# DataBinder.Eval(Container.DataItem, "inactive") %>'
                       runat="server"/>
                  </ItemTemplate>          
                </asp:TemplateField>
@@ -132,6 +133,25 @@
 	</table>
     </div>
     </div>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/css/footable.min.css"
+        rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/js/footable.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#MyGridView').footable({
+                "breakpoints": {
+                    "x-small": 480,
+                    "small": 768,
+                    "medium": 992,
+                    "large": 1200,
+                    "x-large": 1400
+                },
+                "toggleColumn": "last",
+		        "expandFirst": true,
+            });
+        });
+    </script>
   </form>
 
 </body>
