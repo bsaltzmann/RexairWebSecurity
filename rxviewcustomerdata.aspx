@@ -14,6 +14,15 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/css/footable.min.css"
+        rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/js/footable.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#MyGridView').footable();
+        });
+    </script>
 </head>
 <body oncontextmenu="return false">
 
@@ -21,7 +30,7 @@
        <div id="container">
           <div class="row">
                <div class="column left" > <h3>View Customer Data</h3> </div>
-               <div class="column right" > <img src="../images/logo_small.png" alt="Rexair LLC"  width="200" height="100" />  </div>
+               <div class="column right" > <img src="../images/logo_small.png" alt="Rexair LLC"  width="100%" height="140%" />  </div>
          </div>
 
         <div id="frame">

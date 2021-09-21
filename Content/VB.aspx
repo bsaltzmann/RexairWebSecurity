@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
      <asp:GridView ID="GridView1" CssClass="footable" runat="server" AutoGenerateColumns="false"
-        Style="max-width: 500px">
+        Style="max-width: 1000px">
         <Columns>
             <asp:BoundField DataField="Id" HeaderText="Customer Id" />
             <asp:BoundField DataField="Name" HeaderText="Customer Name" />

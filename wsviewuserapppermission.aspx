@@ -9,6 +9,15 @@
     <title>WS View User App Permissions</title>
 	   <link rel="stylesheet" href="../Content/wsSite.css"/>
     <script src="../Scripts/JavaScript.js" type="text/javascript"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/css/footable.min.css"
+        rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-footable/0.1.0/js/footable.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#MyGridView').footable();
+        });
+    </script>
 </head>
 <body oncontextmenu="return false">
      <form runat="server" id="wsuserapppermissions" >
@@ -17,7 +26,7 @@
           <div class="row">
                <div class="column left" > <h1>View User App Permissions</h1>
                </div>
-               <div class="column right" > <img src="../images/logo_small.png" alt="Rexair LLC"  width="200" height="100" />
+               <div class="column right" > <img src="../images/logo_small.png" alt="Rexair LLC"  width="100%" height="140%" />
                </div>
          </div>
 
